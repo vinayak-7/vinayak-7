@@ -8,12 +8,6 @@
 
 <hr>
 <div>
- 
-- ⚡ Fun fact: **I like to play Cricket and Chess a lot......**
-
-- 📫 How to reach me **vinayak462000@gmail.com**
-
-- 👍 Learned so far : 
 - Languages : **C , C++ , Core Java , Python , JavaScript**
 - Tools : **Git , MySQL**
 - Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs, Nodejs) and PHP**
@@ -26,7 +20,6 @@
 <a href="https://fb.com/vinayak462000@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vinayak462000@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/vinayak_s7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinayak_s7" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/vinayak.s_4/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vinayak.s_4" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="right" alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
