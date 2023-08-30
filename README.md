@@ -1,10 +1,10 @@
 <h1 align="center"><img title="ludki-lapki-800x600.gif" height = "200"  src="https://cdn.dribbble.com/users/2203467/screenshots/6111843/ludki-lapki-800x600.gif" alt="Ludki lapki 800x600"></h1>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Vinayak bandhu</h1>
-<h3 align="center">A Passionate Open Source Enthusiast , Web Developer and Competitive Coder from India.</h3>
+<h3 align="center">A Passionate Web Developer and Competitive Coder from India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" />&nbsp;<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="gaurav24072002" />&nbsp;<img src="https://img.shields.io/badge/OPEN%20SOURCE%20ENTHUSIAST-Always-brightgreen" alt="gaurav24072002" />&nbsp;<img src="https://camo.githubusercontent.com/7d880f217d558a5183c9af2332c2517b00a6c4ff0b29297bd6881dd5bf867887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538362d627269676874677265656e" alt="gaurav24072002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinayak-7&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-7" />&nbsp;<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="vinayak-7" />&nbsp;<img src="https://img.shields.io/badge/OPEN%20SOURCE%20ENTHUSIAST-Always-brightgreen" alt="vinayak-7" />&nbsp;<img src="https://camo.githubusercontent.com/7d880f217d558a5183c9af2332c2517b00a6c4ff0b29297bd6881dd5bf867887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538362d627269676874677265656e" alt="vinayak-7" /> </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Visit Here To Know More About Me](https://gaurav24072002.github.io/)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Visit Here To Know More About Me](https://vinayak-7.github.io/portfolio/)**
 
 <hr>
 <p>
@@ -16,33 +16,23 @@
 <div><h3 align="center"><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center"></h3></div>
 <div>
  
-- 🌱 Status: **Learning new things , Contributing , Achieving goals and Sharing**
+- ⚡ Fun fact: **I like to play Cricket and Chess a lot......**
 
-- 💬 Ask me about: **Anything 😉**
-
-- ⚡ Fun fact: **I like to play Table Tennis and Chess a lot......**
-
-- 🧿 My Tag Line: **"You should know everything about something and something about everything"** 
-
-- 📫 How to reach me **gaurav02maheshwari@gmail.com**
-
-- 🅱 My BLOGS (Go and read them for more info.):  **[My BLOGS](https://dev.to/gaurav24072002)**
-
--  💖 To Know More About me See my **[PORTFOLIO](https://gaurav24072002.github.io/)**
+- 📫 How to reach me **vinayak462000@gmail.com**
 
 - 👍 Learned so far : 
-- Languages : **C , C++ , Java , Python , JavaScript, Go Lang**
-- Tools : **Docker , Kubernetes , MySQL**
+- Languages : **C , C++ , Core Java , Python , JavaScript**
+- Tools : **Git , MySQL**
 - Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs, Nodejs) and PHP**
 </div>
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav02maheshwari@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/gaurav02maheshwari@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/gaurav79693743" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/gaurav02maheshwari/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vinayak-bandhu-1620ba203/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinayak-bandhu-1620ba203" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/vinayak462000@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vinayak462000@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/vinayak_s7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinayak_s7" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vinayak.s_4/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vinayak.s_4" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="right" alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true"> 
 </p>
 
