@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinayak-bandhu-1620ba203/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinayak-bandhu-1620ba203" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/vinayak462000@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vinayak462000@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100048984101200" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vinayak462000@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/vinayak_s7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinayak_s7" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/vinayak.s_4/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vinayak.s_4" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
