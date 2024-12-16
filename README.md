@@ -37,7 +37,8 @@ I love exploring new tech, solving problems (or creating new ones), and transfor
 
 ## 📈 GitHub Stats:
 
-[![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayak-7&show_icons=true&theme=radical)](https://github.com/vinayak-7)
+
+<img src="https://api.githubtrends.io/user/svg/vinayak-7/repos?time_range=one_year&group=other&loc_metric=changed&theme=bright_lights"> <img src="https://api.githubtrends.io/user/svg/vinayak-7/langs?time_range=one_year&theme=synthwaves">
 
 ---
 
